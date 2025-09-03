@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "easy_wood_cutter:crafting_planks",
+    "count": 6
+  }
+}

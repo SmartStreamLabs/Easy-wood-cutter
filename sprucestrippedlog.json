@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "easy_wood_cutter:crafting_planks"
+  },
+  "result": {
+    "id": "minecraft:stripped_spruce_log",
+    "count": 3
+  }
+}
